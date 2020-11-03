@@ -22,4 +22,4 @@ workflows:
                   fi
 
 orbs:
-  pantheon: pantheon-systems/pantheon@0.2.0
+  pantheon: pantheon-systems/pantheon@dev:1dc7c41
